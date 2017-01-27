@@ -1,0 +1,12 @@
+{
+  "name": "media-match",
+  "version": "2.0.2",
+  "description": "Test css media queries in javascript",
+  "main": "media.match.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/media-match.git"
+  },
+  "author": "weblinc",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}
